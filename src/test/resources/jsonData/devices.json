@@ -1,0 +1,25 @@
+{
+  "chrome": {
+    "browserName": "chrome",
+    "chromeOptions": {
+      "args": [
+        "--window-size=1920,1080"
+      ]
+    }
+  },
+  "firefox": {
+    "browserName": "firefox"
+  },
+  "iosPhysicalDeviceNameHERE": {
+    "deviceName": "deviceNameHERE",
+    "platformVersion": "versionHere",
+    "udid": "udidForPhysicalDeviceHere"
+  },
+  "Pixel": {
+    "deviceName": "Pixel",
+    "udid": "HT79E1A01423"
+  },
+  "emulator-5554": {
+    "deviceName": "emulator-5554"
+  }
+}
